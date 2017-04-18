@@ -2,7 +2,9 @@
 ### Created by Zayd Hammoudeh
 
 **Semester:** Spring 2017
+
 **Instructor:** Dr. Anastasia Pryvarnikova
+
 **Institution:** San Jose State University
 
 This contains my study notes, exams, and homeworks from when I took linear algebra.
